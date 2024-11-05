@@ -13,3 +13,6 @@
 5. Ralizar um Pull, Request e Merge; [ ]
 
 6. Criar nosso primeiro Fork; [ ]
+
+
+## Realizando Alterações de teste para nosso Respositório.
